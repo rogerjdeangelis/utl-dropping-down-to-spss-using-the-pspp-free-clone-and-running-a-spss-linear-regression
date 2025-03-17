@@ -27,6 +27,14 @@ Dropping down to spss using the pspp free clone and running a spss linear regres
     github
     https://tinyurl.com/3rs385x9
     https://github.com/rogerjdeangelis/utl-dropping-down-to-spss-using-the-pspp-free-clone-and-running-a-spss-linear-regression
+   Related repos
+   REPO
+   ----------------------------------------------------------------------------------------------------------------------------------
+   https://github.com/rogerjdeangelis/utl-creating-spss-tables-from-a-sas-datasets-using-sas-r-and-python
+   https://github.com/rogerjdeangelis/utl-identifying-the-html-table-and-exporting-to-spss-then-sas-scraping
+   https://github.com/rogerjdeangelis/utl-import-dbf-dif-ods-xlsx-spss-json-stata-csv-html-xml-tsv-files-without-sas-access-products
+   https://github.com/rogerjdeangelis/utl-removing-factors-and-preserving-type-and-length-when-importing-spss-sav-tables
+   https://github.com/rogerjdeangelis/utl-sas-to-and-from-sqllite-excel-ms-access-spss-stata-using-r-packages-without-sas
 
     /*               _     _
      _ __  _ __ ___ | |__ | | ___ _ __ ___
