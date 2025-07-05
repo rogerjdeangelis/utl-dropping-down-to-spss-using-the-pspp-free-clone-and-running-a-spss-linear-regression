@@ -369,7 +369,8 @@ Dropping down to spss using the pspp free clone and running a spss linear regres
     filename ft15f001 "c:/temp/ps_pgm.ps1";
     %mend utl_psppbeginx;
     ;;;;
-
+    run;quit;
+    
     %macro utl_psppendx(returnvar=N);
     options noxwait noxsync;
     filename rut pipe  "c:\PROGRA~1\PSPP\bin\pspp.exe c:/temp/ps_pgm.ps1 >  c:/temp/ps_pgm.log";
