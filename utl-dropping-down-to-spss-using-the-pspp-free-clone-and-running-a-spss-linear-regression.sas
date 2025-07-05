@@ -367,6 +367,7 @@ parmcards4;
 filename ft15f001 "c:/temp/ps_pgm.ps1";
 %mend utl_psppbeginx;
 ;;;;
+run;quit;
 
 filename ft15f001 "c:/oto/utl_psppendx.sas";
 parmcards4;
